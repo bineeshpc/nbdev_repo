@@ -1,5 +1,5 @@
-# nbdev_project
-> simple nbdev_project.
+# Getting started with nbdev
+> simple nbdev_project to get started.
 
 
 This file will become your README and also the index of your documentation.
