@@ -1,13 +1,12 @@
-# Project name here
-> Summary description here.
+# nbdev_project
+> simple nbdev_project.
 
-https://bineeshpc.github.io/nbdev_repo/
 
 This file will become your README and also the index of your documentation.
 
 ## Install
 
-`pip install your_project_name`
+`pip install nbdev_project`
 
 ## How to use
 
